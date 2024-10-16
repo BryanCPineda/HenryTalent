@@ -141,4 +141,4 @@ PORT must be the same as api.
 ![crud-skills](https://user-images.githubusercontent.com/66705822/100810533-75317600-3417-11eb-8aea-b4a4f30e623c.png)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BryanCPineda.HenryTalent)
+
