@@ -1,16 +1,4 @@
-<p align='left'>
-    <img src='https://static.wixstatic.com/media/85087f_0d84cbeaeb824fca8f7ff18d7c9eaafd~mv2.png/v1/fill/w_160,h_30,al_c,q_85,usm_0.66_1.00_0.01/Logo_completo_Color_1PNG.webp' </img>
-</p>
-
-# Henry
-
 # HenryTalent
-
-## Introduction
-
-This is a student group project done as a final big assigment, in wich join all the technologies learned at SoyHenry bootcamp, in addition the academy gathered the best developers of the *05 cohort* to make the first delivery of this app for a future deployment.
-
-*Graduation project at soyHenry.com bootcamp.*
 
 ## About
 
